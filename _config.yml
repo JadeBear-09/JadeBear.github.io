@@ -1,0 +1,18 @@
+# ✨ Portfolio Configuration ✨
+title: "JadeBear"
+logo: "/assets/img/headshot_circle.png" # ☁️ Keep your profile pic here!
+description: >
+  Data Scientist & AI Researcher 🤖 | 
+  Building Predictive Intelligence with AI ✨ | 
+  Love Researching about Healthcare and improvement with AI 🩺 | 
+  Tea runs in my vein 🍵🏔️
+
+# 🍬 Site Settings
+show_downloads: true
+theme: jekyll-theme-minimal
+
+
+# 🧸 Navigation or Extra Details
+about_me: "Merging the world of ML/DL with healthcare and risk analytics 🦄"
+current_project: "Automating Intelligence with AI 🧪"
+
