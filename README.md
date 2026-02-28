@@ -1,9 +1,6 @@
 # JadeBear.github.io
-# Hi, I'm [Your Name] 🐾 
+# Hi, I'm Jade 🐾 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="50" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXpueXpueXpueXpueXpueXpueXpueXpueXpueHplZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/12m3Waj0L3AnS0/giphy.gif" width="150" alt="Snoopy Walking">
