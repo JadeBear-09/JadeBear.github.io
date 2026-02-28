@@ -9,4 +9,4 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
 # Navigation / Extra Details
-current_project: "Building stock-market prediction for everyday, @8 am till market open - live insights are out. Do message if I were successful with my predictions."
+current_project: "Building stock-market recognition pipeline."
