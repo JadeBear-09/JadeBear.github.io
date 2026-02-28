@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="thinking-snoopy.gif" width="500" alt="Snoopy Thinking">
+  <img src="thinking-snoopy.gif" width="300" alt="Snoopy Thinking">
 </p>
 
 ---
@@ -14,16 +14,6 @@
 ### 💻 Professional Profile
 I am a **Data Scientist** and **IIT Delhi graduate** specializing in **Predictive Intelligence**. My work focuses on building high-impact models for **Market Trends, Finance, and Human Sentiment Analysis**.
 
-* **Current Focus:** Developing RAG-based intelligence engines and automating DL workflows for investment risk management.
-* **Research Path:** Actively exploring **Medical AI** and diagnostics with the goal of transitioning into a Ph.D.
-* **Background:** Proudly from Northeast India 🏔️.
-
----
-
-### 🛠️ Technical Stack
-* **Predictive Analytics:** Sentiment Analysis, Market Risk Modeling, Financial Forecasting.
-* **AI/ML:** RAG Systems, AutoML, Deep Learning (PyTorch/TensorFlow).
-* **Languages:** Python, SQL, and Business Japanese (N3/BJT prep).
 
 ---
 
