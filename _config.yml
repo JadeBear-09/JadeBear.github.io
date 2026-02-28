@@ -1,18 +1,12 @@
-# ✨ Portfolio Configuration ✨
+# Portfolio Configuration
 title: "JadeBear"
-logo: "/assets/img/headshot_circle.png" # ☁️ Keep your profile pic here!
+logo: "file/snoo-snoo.png"
 description: >
-  AI Researcher 🤖 | 
-  Building Predictive Intelligence with AI ✨ | 
-  Love Researching about Healthcare and improvement with AI 🩺 | 
-  Tea runs in my vein 🍵🏔️
+  I exist!
 
-# 🍬 Site Settings
-show_downloads: true
+# Site Settings
+show_downloads: false
 theme: jekyll-theme-minimal
 
-
-# 🧸 Navigation or Extra Details
-about_me: "Merging the world of ML/DL with healthcare and risk analytics 🦄"
-current_project: "Automating Intelligence with AI 🧪"
-
+# Navigation / Extra Details
+current_project: "Building stock-market prediction for everyday, @8 am till market open - live insights are out. Do message if I were successful with my predictions."
