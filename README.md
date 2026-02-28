@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXpueXpueXpueXpueXpueXpueXpueXpueXpueHplZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/12m3Waj0L3AnS0/giphy.gif" width="150" alt="Snoopy Walking">
+  <img src="thinking-snoopy.gif" width="500" alt="Snoopy Thinking">
 </p>
 
 ---
@@ -39,6 +39,4 @@ I am a **Data Scientist** and **IIT Delhi graduate** specializing in **Predictiv
 <a href="your-email-link"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZueHplZ290ZGN6Z290ZGN6Z290ZGN6Z290ZGN6Z290ZGN6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vNpxLp8X8nB96/giphy.gif" width="100" alt="Snoopy Sleeping">
-</p>
+
