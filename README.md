@@ -10,7 +10,7 @@
 ### Bio
 
 I am a **Data Scientist** and **IIT Delhi graduate**.
-I build **AI agents** and **deep-learning tools** that is .
+I build **AI agents** and **deep-learning tools** that is easy to use .
 
 ---
 
