@@ -1,5 +1,4 @@
-# JadeBear.github.io
-# Hi, I'm Jade
+# Hi, I'm Jyotishna
 
 <p align="center">
   <img src="./file/thinking-snoopy.gif" width="220" alt="Snoopy thinking">
