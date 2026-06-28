@@ -17,7 +17,7 @@ health checks.
 - Live demo: [TelcoAssist Query UI](http://telcoassist-demo-alb-1864469644.us-east-1.elb.amazonaws.com/query)
 - Health check: [TelcoAssist Health](http://telcoassist-demo-alb-1864469644.us-east-1.elb.amazonaws.com/health)
 - Ready check: [TelcoAssist Ready](http://telcoassist-demo-alb-1864469644.us-east-1.elb.amazonaws.com/ready)
-- GitHub: [JadeBear-09/telcoassist-rag](https://github.com/JadeBear-09/telcoassist-rag)
+- Code: cleanup before public release
 - Stack: FastAPI, Qdrant, BM25, hybrid retrieval, reranking, Docker, AWS ALB
 
 ### D-Lens
@@ -28,7 +28,7 @@ stores reports, supports similar-failure search, and exposes monitoring endpoint
 
 - Live API docs: [D-Lens Swagger](https://dlens-api-wuscfbl3cq-el.a.run.app/docs)
 - Health check: [D-Lens Health](https://dlens-api-wuscfbl3cq-el.a.run.app/health)
-- GitHub: [JadeBear-09/faillens_ai_docs](https://github.com/JadeBear-09/faillens_ai_docs)
+- Code: cleanup before public release
 - Stack: FastAPI, Pydantic, Postgres, Cloud Run, Cloud SQL, Prometheus metrics
 
 ### Telecom Churn Risk Engine
@@ -40,7 +40,7 @@ and monitoring snapshots.
 
 - Live demo: [Hugging Face Space](https://huggingface.co/spaces/Jade09/telecom-churn-risk-engine)
 - Direct app: [Telecom Churn App](https://jade09-telecom-churn-risk-engine.hf.space)
-- GitHub: [JadeBear-09/traditional-ML-project](https://github.com/JadeBear-09/traditional-ML-project)
+- Code: cleanup before public release
 - Stack: Python, scikit-learn, FastAPI, Streamlit, Docker, pytest, Hugging Face Spaces
 
 ## What I Build
