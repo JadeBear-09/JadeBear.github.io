@@ -1,51 +1,44 @@
 # Jyotishna
 
-Data Scientist and IIT Delhi graduate building production-style AI systems.
+Data Scientist and IIT Delhi graduate building practical AI systems.
 
-I focus on practical AI engineering: retrieval systems, model-serving workflows,
-monitoring, guardrails, and deployed demos that can be inspected directly.
+I work on retrieval systems, LLM reliability tooling, and ML apps that are easy to inspect: live demos, API docs, health checks, and code where available.
+
+Contact: [Email](mailto:jyotishna.dbs@gmail.com)
 
 ## Featured Projects
 
 ### TelcoAssist RAG
 
-Production-style telecom RAG platform for support, policy, and network operations.
-It combines hybrid retrieval, reranking, source citations, confidence scoring,
-fallback behavior, guardrails, ACL-before-retrieval, audit logs, and deployment
-health checks.
+Telecom knowledge retrieval backend for support and operations questions. It focuses on grounded answers, source citations, fallback behavior, ACL filtering, and audit logs.
 
 - Live demo: [TelcoAssist Query UI](http://telcoassist-demo-alb-1864469644.us-east-1.elb.amazonaws.com/query)
 - Health check: [TelcoAssist Health](http://telcoassist-demo-alb-1864469644.us-east-1.elb.amazonaws.com/health)
 - Ready check: [TelcoAssist Ready](http://telcoassist-demo-alb-1864469644.us-east-1.elb.amazonaws.com/ready)
-- Code: cleanup before public release
-- Stack: FastAPI, Qdrant, BM25, hybrid retrieval, reranking, Docker, AWS ALB
+- Code: [GitHub repo](https://github.com/JadeBear-09/telcoassist-rag)
+- Stack: FastAPI, Qdrant/FAISS, BM25, LlamaIndex, Docker, AWS
 
 ### D-Lens
 
-Diagnostic API for failed chatbot, RAG, and agent responses. It accepts traces,
-detects failure signals, assigns severity, returns structured root-cause reports,
-stores reports, supports similar-failure search, and exposes monitoring endpoints.
+LLM reliability API for debugging failed chatbot, RAG, and agent responses. It takes an app trace and returns failure type, severity, evidence, and suggested fixes.
 
-- Live API docs: [D-Lens Swagger](https://dlens-api-wuscfbl3cq-el.a.run.app/docs)
+- API docs: [D-Lens Swagger](https://dlens-api-wuscfbl3cq-el.a.run.app/docs)
 - Health check: [D-Lens Health](https://dlens-api-wuscfbl3cq-el.a.run.app/health)
-- Code: cleanup before public release
-- Stack: FastAPI, Pydantic, Postgres, Cloud Run, Cloud SQL, Prometheus metrics
+- Code: [GitHub repo](https://github.com/JadeBear-09/faillens_ai_docs)
+- Stack: FastAPI, Pydantic, Postgres, Celery, Redis, Prometheus
 
 ### Telecom Churn Risk Engine
 
-End-to-end classical ML project for telecom churn prediction and retention
-recommendations. It includes model training, threshold tuning with business costs,
-explainability, FastAPI serving, Streamlit dashboarding, Docker deployment, tests,
-and monitoring snapshots.
+ML app for churn prediction and retention planning. It predicts churn probability, explains likely risk drivers, assigns a risk band, and suggests a retention action.
 
-- Live demo: [Hugging Face Space](https://huggingface.co/spaces/Jade09/telecom-churn-risk-engine)
-- Direct app: [Telecom Churn App](https://jade09-telecom-churn-risk-engine.hf.space)
-- Code: cleanup before public release
-- Stack: Python, scikit-learn, FastAPI, Streamlit, Docker, pytest, Hugging Face Spaces
+- Live app: [Telecom Churn App](https://jade09-telecom-churn-risk-engine.hf.space)
+- Space: [Hugging Face Space](https://huggingface.co/spaces/Jade09/telecom-churn-risk-engine)
+- Code: [GitHub repo](https://github.com/JadeBear-09/traditional-ML-project)
+- Stack: Python, scikit-learn, FastAPI, Streamlit, Docker, pytest
 
-## What I Build
+## Tech Stack
 
-- Retrieval-augmented generation systems with citations and fallback behavior
-- AI monitoring and diagnostic tools for production-style failure analysis
-- ML decision systems that connect predictions to business actions
-- Deployed demos with health checks, documentation, and resume-ready links
+- Programming: Python, SQL, Go, TypeScript, R
+- AI/ML: RAG, LlamaIndex, LangGraph, OCR, NLP, scikit-learn, Ragas
+- Backend/Data: FastAPI, Pydantic, Postgres, Redis, Qdrant/FAISS, Docker
+- Monitoring/Quality: Prometheus, pytest, health checks, API docs
