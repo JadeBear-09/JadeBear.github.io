@@ -1,10 +1,6 @@
 # Jyotishna
 
-Data Scientist and IIT Delhi graduate building practical AI systems.
-
-I work on retrieval systems, LLM reliability tooling, and ML apps that are easy to inspect: live demos, API docs, health checks, and code where available.
-
-Contact: [Email](mailto:jyotishna.dbs@gmail.com)
+[Contact me](mailto:jyotishna.dbs@gmail.com)
 
 ## Featured Projects
 

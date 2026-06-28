@@ -1,4 +1,6 @@
-Contact Me: [Email](mailto:jyotishna.dbs@gmail.com)
+# Jyotishna
+
+[Contact me](mailto:jyotishna.dbs@gmail.com)
 
 ## Featured Projects
 
@@ -36,4 +38,3 @@ ML app for churn prediction and retention planning. It predicts churn probabilit
 - AI/ML: RAG, LlamaIndex, LangGraph, OCR, NLP, scikit-learn, Ragas
 - Backend/Data: FastAPI, Pydantic, Postgres, Redis, Qdrant/FAISS, Docker
 - Monitoring/Quality: Prometheus, pytest, health checks, API docs
-
