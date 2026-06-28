@@ -1,10 +1,4 @@
-# Jyotishna
-
-Data Scientist and IIT Delhi graduate building practical AI systems.
-
-I work on retrieval systems, LLM reliability tooling, and ML apps that are easy to inspect: live demos, API docs, health checks, and code where available.
-
-Contact: [Email](mailto:jyotishna.dbs@gmail.com)
+Contact Me: [Email](mailto:jyotishna.dbs@gmail.com)
 
 ## Featured Projects
 
@@ -42,3 +36,4 @@ ML app for churn prediction and retention planning. It predicts churn probabilit
 - AI/ML: RAG, LlamaIndex, LangGraph, OCR, NLP, scikit-learn, Ragas
 - Backend/Data: FastAPI, Pydantic, Postgres, Redis, Qdrant/FAISS, Docker
 - Monitoring/Quality: Prometheus, pytest, health checks, API docs
+
