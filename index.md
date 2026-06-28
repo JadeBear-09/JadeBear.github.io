@@ -1,5 +1,3 @@
-# Jyotishna
-
 [Contact me](mailto:jyotishna.dbs@gmail.com)
 
 ## Featured Projects
