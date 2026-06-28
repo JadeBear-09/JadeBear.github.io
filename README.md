@@ -17,15 +17,15 @@ Telecom knowledge retrieval backend for support and operations questions. It foc
 LLM reliability API for debugging failed chatbot, RAG, and agent responses. It takes an app trace and returns failure type, severity, evidence, and suggested fixes.
 
 - API docs: [D-Lens Swagger](https://dlens-api-wuscfbl3cq-el.a.run.app/docs)
-- Code: [GitHub repo](https://github.com/JadeBear-09/faillens_ai_docs)
+- Code: [GitHub repo](https://github.com/JadeBear-09/d-lens)
 - Stack: FastAPI, Pydantic, Postgres, Celery, Redis, Prometheus
 
 ### Telecom Churn Risk Engine
 
 ML app for churn prediction and retention planning. It predicts churn probability, explains likely risk drivers, assigns a risk band, and suggests a retention action.
 
-- Live app: [Telecom Churn App](https://jade09-telecom-churn-risk-engine.hf.space)
-- Code: [GitHub repo](https://github.com/JadeBear-09/traditional-ML-project)
+- Live app: [Telecom Churn App](https://jade09-telecom-churn-risk-engine.hf.space/)
+- Code: [GitHub repo](https://github.com/JadeBear-09/telecom-churn-risk-engine)
 - Stack: Python, scikit-learn, FastAPI, Streamlit, Docker, pytest
 
 ## Tech Stack
