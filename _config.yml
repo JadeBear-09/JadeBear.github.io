@@ -1,12 +1,9 @@
-# Portfolio Configuration
-title: "JadeBear"
+title: "Jyotishna | AI Engineering Portfolio"
 logo: "file/snoo-snoo.png"
 description: >
-  I exist!
+  Production-style AI projects in RAG, ML serving, monitoring, and diagnostic APIs.
 
-# Site Settings
 show_downloads: false
 theme: jekyll-theme-minimal
 
-# Navigation / Extra Details
-current_project: "Building stock-market recognition pipeline."
+current_project: "TelcoAssist RAG, D-Lens, and Telecom Churn Risk Engine"
